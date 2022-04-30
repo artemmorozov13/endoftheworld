@@ -1,0 +1,30 @@
+.navigation{
+    flex-grow: 1;
+    align-items: center;
+}
+
+.logoLink{
+    text-decoration: none;
+    color: white;
+}
+.hiddenLink{
+    color: black;
+    text-decoration: none;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    font-family: 'Roboto';
+    &::after{
+        content: '';
+        display: block;
+        width: 0%;
+        height: 2px;
+        background-color: rgba(255,255,255,.8);
+        transition: .3s;
+    }
+    &:hover::after{
+        width: 100%;
+    }
+}
