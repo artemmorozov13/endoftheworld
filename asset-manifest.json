@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/enddamnworld/static/css/main.8e096f82.css",
-    "main.js": "/enddamnworld/static/js/main.1d8e8472.js",
-    "static/media/vposter.jpg": "/enddamnworld/static/media/vposter.fc118d58f8118da1c2bf.jpg",
-    "static/media/logo.svg": "/enddamnworld/static/media/logo.3de483f23e6f3b632115bb7b4353e88d.svg",
-    "index.html": "/enddamnworld/index.html",
-    "main.8e096f82.css.map": "/enddamnworld/static/css/main.8e096f82.css.map",
-    "main.1d8e8472.js.map": "/enddamnworld/static/js/main.1d8e8472.js.map"
+    "main.css": "/endoftheworld/static/css/main.0c29df52.css",
+    "main.js": "/endoftheworld/static/js/main.ff701c17.js",
+    "static/media/vposter.jpg": "/endoftheworld/static/media/vposter.fc118d58f8118da1c2bf.jpg",
+    "static/media/logo.svg": "/endoftheworld/static/media/logo.3de483f23e6f3b632115bb7b4353e88d.svg",
+    "index.html": "/endoftheworld/index.html",
+    "main.0c29df52.css.map": "/endoftheworld/static/css/main.0c29df52.css.map",
+    "main.ff701c17.js.map": "/endoftheworld/static/js/main.ff701c17.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e096f82.css",
-    "static/js/main.1d8e8472.js"
+    "static/css/main.0c29df52.css",
+    "static/js/main.ff701c17.js"
   ]
 }
